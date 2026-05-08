@@ -1,0 +1,134 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║           🎵 SPOTIFY MUSIC INTELLIGENCE - ROADMAP VISUAL                 ║
+║                   Sistema de Agentes Claude Code                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+                        📍 COMIENZA POR AQUÍ 📍
+                              ⬇️ 
+                         00_INDEX.md (léeme)
+                              ⬇️
+                    README_START_HERE.md (10 min)
+                              ⬇️
+
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         COMPRENSIÓN (Día 1)                              │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  README_START_HERE.md         PROJECT_STRUCTURE.md                      │
+│  ├─ Qué es el sistema         ├─ 5 agentes                             │
+│  ├─ Quick start                ├─ Skills por agente                    │
+│  ├─ Requirements               ├─ Flujo de ejecución                   │
+│  └─ Timeline                   └─ Prompts ordenados                    │
+│                                                                          │
+│  RESULTADO: Entiendes el plan global ✓                                  │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+                              ⬇️ 
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    EJECUCIÓN (Días 2-6)                                  │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  EXECUTION_GUIDE.md  +  MASTER_PROMPTS.md  +  CHEATSHEET.md             │
+│                                                                          │
+│  ┌─ FASE 1: DATA FOUNDATION (3 horas) ─────────┐                       │
+│  │ PROMPTS: 1.1 Setup → 1.2 Spotify →          │                       │
+│  │          1.3 Lyrics → 1.4 Config             │                       │
+│  │ OUTPUT: APIs funcionando ✓                   │                       │
+│  └────────────────────────────────────────────────┘                     │
+│                          ⬇️                                             │
+│  ┌─ FASE 2: ANALYSIS & NLP (4 horas) ─────────┐                       │
+│  │ PROMPTS: 2.1 Filtering → 2.2 NLP →         │                       │
+│  │          2.3 Audio Analysis                  │                       │
+│  │ OUTPUT: Análisis completamente funcional ✓   │                       │
+│  └────────────────────────────────────────────────┘                     │
+│                          ⬇️                                             │
+│  ┌─ FASE 3: VISUALIZATION (3 horas) ─────────┐                        │
+│  │ PROMPTS: 3.1 Plotly → 3.2 Altair           │                       │
+│  │ OUTPUT: 10+ visualizaciones interactivas ✓  │                       │
+│  └────────────────────────────────────────────────┘                     │
+│                          ⬇️                                             │
+│  ┌─ FASE 4: FRONTEND (5 horas) ──────────────┐                        │
+│  │ PROMPTS: 4.1 Main → 4.2-4.5 Pages →       │                       │
+│  │          4.6 Components                     │                       │
+│  │ OUTPUT: App Streamlit funcional ✓          │                       │
+│  └────────────────────────────────────────────────┘                     │
+│                          ⬇️                                             │
+│  ┌─ FASE 5: DOCUMENTATION (3 horas) ────────┐                        │
+│  │ PROMPTS: 5.1 Notebook Spotify →           │                       │
+│  │          5.2 Notebook Lyrics →            │                       │
+│  │          5.3 Comentarios →                │                       │
+│  │          5.4 Deployment →                 │                       │
+│  │          5.5 Requirements                 │                       │
+│  │ OUTPUT: Todo documentado y deployable ✓   │                       │
+│  └────────────────────────────────────────────────┘                     │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+                              ⬇️ 
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                         ✅ PROYECTO COMPLETADO                            ║
+║                    Nota esperada: 9-10/10                                 ║
+║                                                                           ║
+║  ✓ Filtrado de álbumes (2 puntos)                                        ║
+║  ✓ Análisis de letras (4 puntos)                                         ║
+║  ✓ Web app funcional (4 puntos)                                          ║
+║  ✓ Documentación completa                                                ║
+║  ✓ Deployable en 4 plataformas                                          ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+                    📚 ARCHIVOS DE REFERENCIA
+                    (Consulta mientras desarrollas)
+
+  ┌─────────────────────────────────────────────────┐
+  │ CHEATSHEET.md                                   │
+  │ ├─ Enlaces clave                                │
+  │ ├─ Comandos rápidos                            │
+  │ ├─ Features de Spotify                         │
+  │ ├─ Tipos de gráficos                           │
+  │ ├─ Tests básicos                               │
+  │ ├─ Debugging (errores comunes)                │
+  │ └─ FAQs rápidas                                │
+  └─────────────────────────────────────────────────┘
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+                        🎯 PRÓXIMOS PASOS
+
+  1. Lee este archivo (2 min) ✓
+  2. Abre 00_INDEX.md (comprensión) → 20 min
+  3. Abre README_START_HERE.md (quick start) → 15 min
+  4. Abre PROJECT_STRUCTURE.md (arquitectura) → 30 min
+  5. Abre Claude Code y ejecuta PROMPT 1.1 ← AQUÍ COMIENZA EL TRABAJO
+
+═══════════════════════════════════════════════════════════════════════════
+
+                    💡 CLAVE DEL ÉXITO
+
+  ✓ Lee TODOS los documentos antes de empezar
+  ✓ Ejecuta UN prompt a la vez
+  ✓ Verifica que cada fase funciona
+  ✓ Commit a git después de cada fase
+  ✓ Consulta CHEATSHEET.md si tienes dudas
+
+═══════════════════════════════════════════════════════════════════════════
+
+                    ⏱️  TIMELINE ESTIMADO
+
+  Lectura + Comprensión:        2 horas
+  Ejecución (todas fases):     10-15 horas
+  Testing + Adjustments:        2-3 horas
+  ──────────────────────────────────────
+  TOTAL:                        14-20 horas
+
+  Con Claude Code (más rápido):  6-10 horas
+
+═══════════════════════════════════════════════════════════════════════════
+
+             🚀 ¡COMIENZA AHORA! 🚀
+
+  Siguiente paso: Abre 00_INDEX.md

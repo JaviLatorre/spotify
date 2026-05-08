@@ -1,0 +1,62 @@
+{
+  "artist": "Radiohead",
+  "total_tracks": 87,
+  "total_albums": 7,
+  "albums": [
+    "Pablo Honey",
+    "The Bends",
+    "OK Computer",
+    "Kid A",
+    "Amnesiac",
+    "In Rainbows",
+    "A Moon Shaped Pool"
+  ],
+  "year_range": [
+    1993,
+    2016
+  ],
+  "features": {
+    "danceability": {
+      "mean": 0.4172,
+      "std": 0.1092,
+      "min": 0.1981,
+      "max": 0.6358
+    },
+    "energy": {
+      "mean": 0.5018,
+      "std": 0.1773,
+      "min": 0.0688,
+      "max": 0.9335
+    },
+    "valence": {
+      "mean": 0.2539,
+      "std": 0.1483,
+      "min": 0.0,
+      "max": 0.7106
+    },
+    "acousticness": {
+      "mean": 0.2304,
+      "std": 0.1872,
+      "min": 0.0,
+      "max": 0.7024
+    },
+    "instrumentalness": {
+      "mean": 0.2212,
+      "std": 0.2734,
+      "min": 0.0,
+      "max": 0.99
+    },
+    "liveness": {
+      "mean": 0.1315,
+      "std": 0.0712,
+      "min": 0.0,
+      "max": 0.3981
+    },
+    "speechiness": {
+      "mean": 0.0665,
+      "std": 0.0396,
+      "min": 0.0,
+      "max": 0.2103
+    }
+  }
+}

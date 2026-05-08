@@ -1,0 +1,59 @@
+{
+  "artist": "The Smiths",
+  "total_tracks": 40,
+  "total_albums": 4,
+  "albums": [
+    "The Smiths",
+    "Meat Is Murder",
+    "The Queen Is Dead",
+    "Strangeways, Here We Come"
+  ],
+  "year_range": [
+    1984,
+    1987
+  ],
+  "features": {
+    "danceability": {
+      "mean": 0.4937,
+      "std": 0.1101,
+      "min": 0.2984,
+      "max": 0.732
+    },
+    "energy": {
+      "mean": 0.5717,
+      "std": 0.147,
+      "min": 0.1742,
+      "max": 0.8916
+    },
+    "valence": {
+      "mean": 0.3503,
+      "std": 0.1458,
+      "min": 0.0288,
+      "max": 0.6211
+    },
+    "acousticness": {
+      "mean": 0.2473,
+      "std": 0.1463,
+      "min": 0.0,
+      "max": 0.563
+    },
+    "instrumentalness": {
+      "mean": 0.0294,
+      "std": 0.0299,
+      "min": 0.0,
+      "max": 0.0906
+    },
+    "liveness": {
+      "mean": 0.1047,
+      "std": 0.0622,
+      "min": 0.0,
+      "max": 0.3199
+    },
+    "speechiness": {
+      "mean": 0.0845,
+      "std": 0.0297,
+      "min": 0.0043,
+      "max": 0.1372
+    }
+  }
+}
